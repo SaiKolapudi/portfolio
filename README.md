@@ -1,56 +1,74 @@
-# saikolapudi.github.io
-# Data Scientist
+# Sai Tulasi Kolapudi
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## 📍 Denton, Texas
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+📞 [Phone: +1-9408433512](tel:+1-9408433512)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+✉️ [Email: saitulasi1729@gmail.com](mailto:saitulasi1729@gmail.com)
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+🔗 [LinkedIn: Sai-Kolapudi](https://linkedin.com/in/Sai-Kolapudi)
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+👨‍💻 [GitHub: SaiKolapudi](https://github.com/SaiKolapudi)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+## 🎓 Education
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- **University of North Texas** | Denton, USA  
+  *Master's in Data Science (CGPA: 3.85)*  
+  Aug 2022 - Present  
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+- **Saveetha University** | Chennai, India  
+  *Bachelor's in Computer Science (CGPA: 3.24)*  
+  Aug 2016 - Dec 2021  
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+## 🔍 Skills
 
-![Bike Study](/assets/img/bike_study.jpeg)
+- **Languages:** Python, Java, SQL, NoSQL, R
+- **Developer Tools:** Google Collab, Jupyter Notebook, Android Studio
+- **Technologies/Frameworks:** Pytorch, Tensorflow, LLMs, Bert, Matplotlib, Seaborn, Tableau, Power BI
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## 💼 Experience
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- **University of North Texas** | Research Assistant | Denton, USA  
+  Aug 2022 - Present
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+  - Worked on patent summarization models using NLP and LLMs.
+  - Developed test cases for file transfer and compression in Android devices using Java.
+  - Experience with Federated Learning in mobile environments for Android and iOS.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- **University of North Texas** | Graduate Student Assistant | Denton, USA  
+  Aug 2022 - Present
+
+  - Instructor for fundamentals of data analysis class of 100 students.
+  - Providing notes and assistance to students.
+
+- **DXC Technologies** | Associate Professional Software Engineer | Chennai, India  
+  Jun 2020 - Aug 2022
+
+  - Experienced in cloud technologies: HPE, AWS, Azure.
+  - Reduced database operational costs by 30%.
+
+## 🚀 Projects
+
+- [**Breast Cancer Prediction**](ProjectLink.com) | Aug 2022  
+  Developed supervised machine learning models for predicting breast cancer.
+
+- [**Stock Market Prediction**](ProjectLink.com) | Sep 2021  
+  Proposed a deep learning model using Bi-LSTM and Deep belief network.
+
+- [**Sentiment Exploration System**](ProjectLink.com) | Aug 2020  
+  Built an online survey platform for sentimental analysis.
+
+## 📚 Publications
+
+- [**Deep Belief Network and Sentimental Analysis for Stock Market**](https://ieeexplore.ieee.org/document/9456999)
+- [**Sentiment Exploration System to Improve Teaching and Learning**](https://www.testmagzine.biz/index.php/testmagzine/article/view/784)
+
+## 🌟 Extracurricular
+
+- [**UNT Data Science Organization**](https://unt.campuslabs.com/engage/organization/datascience) | Secretary | Denton, USA  
+  Sep 2022 - Present
+
+## 📜 Certifications
+
+- [**Python for Data Science, AI & Development - IBM**](https://www.coursera.org/account/accomplishments/verify/MX3W6QVPK94C)
+- [**Databases and SQL for Data Science with Python - IBM**](https://www.coursera.org/account/accomplishments/verify/...)
