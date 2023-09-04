@@ -60,7 +60,7 @@
 
 - [**Lane Detection using YOLOR and OpenCV**](https://github.com/SaiKolapudi/Lane-Detection-YOLOR) | YourProjectDate  
   Real-time lane detection in video streams using YOLOR and OpenCV.  
-  ![Lane Detection Demo](videos/1.gif)
+  ![Lane Detection Demo](Videos/1.gif)
 
 
 
