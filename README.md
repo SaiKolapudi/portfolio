@@ -58,6 +58,12 @@
 - [**Sentiment Exploration System**](ProjectLink.com) | Aug 2020  
   Built an online survey platform for sentimental analysis.
 
+- [**Lane Detection using YOLOR and OpenCV**](https://github.com/SaiKolapudi/Lane-Detection-YOLOR) | YourProjectDate  
+  Real-time lane detection in video streams using YOLOR and OpenCV.  
+  ![Lane Detection Demo](path/to/your/lane-detection-demo.gif)
+
+
+
 ## 📚 Publications
 
 - [**Deep Belief Network and Sentimental Analysis for Stock Market**](https://ieeexplore.ieee.org/document/9456999)
