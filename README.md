@@ -53,14 +53,11 @@
   Real-time lane detection in video streams using YOLOR and OpenCV.  
   ![Lane Detection Demo](Demo/1.gif)
 
-- [**Breast Cancer Prediction**](ProjectLink.com) | Aug 2022  
-  Developed supervised machine learning models for predicting breast cancer.
+- [**Patent Document Summarization**](https://github.com/SaiKolapudi/Patent_Summaries) | Jan 2023
+  Developed neural network models for summarizing patent documents based on research insights. Explored models include T5 variations, XLNet, BART, BigBird, Pegasus, and GPT-3.5. Evaluated using various metrics like ROUGE, BLEU, and BERT Score. Implemented using Hugging Face Transformers and Seq2Seq.. 
 
-- [**Stock Market Prediction**](ProjectLink.com) | Sep 2021  
-  Proposed a deep learning model using Bi-LSTM and Deep belief network.
-
-- [**Sentiment Exploration System**](ProjectLink.com) | Aug 2020  
-  Built an online survey platform for sentimental analysis.
+- [**Breast Cancer Prediction**]([ProjectLink.com](https://github.com/SaiKolapudi/WBCD-prediction)) | Aug 2022  
+  Predicting breast cancer diagnosis using various machine learning techniques. Achieved impressive accuracy rates with different models including RobustScaler Naive Bayes, PCA Test, and more. .
 
 
 
