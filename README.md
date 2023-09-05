@@ -29,23 +29,34 @@
 ## 💼 Experience
 
 - **University of North Texas** | Research Assistant | Denton, USA  
-  Aug 2022 - Present
+  Aug 2022 - Present · 1 yr 2 mos
 
-  - Worked on patent summarization models using NLP and LLMs.
-  - Developed test cases for file transfer and compression in Android devices using Java.
-  - Experience with Federated Learning in mobile environments for Android and iOS.
+  - Involved in cutting-edge research initiatives in Data Science and Machine Learning.
+  - Developed and fine-tuned Natural Language Processing (NLP) algorithms using TensorFlow and PyTorch.
+  - Achieved state-of-the-art results with Convolutional Neural Networks (CNNs) in computer vision tasks.
+  - Enhanced patent summarization using advanced NLP models (ChatGPT, Llama) for accurate and efficient results.
+  - Extended context length of Language Models (ChatGPT, Llama) for improved text generation quality.
+  - Explored Federated Learning for privacy-preserving model deployment on edge devices.
+  - Constructed automated data pipelines in Python for real-time model training and evaluation.
 
 - **University of North Texas** | Graduate Student Assistant | Denton, USA  
-  Aug 2022 - Present
+  Aug 2022 - Present · 1 yr 2 mos
 
-  - Instructor for fundamentals of data analysis class of 100 students.
-  - Providing notes and assistance to students.
+  - Supported the INFO 5501: Fundamentals of Data Science course as a Graduate Student Assistant.
+  - Led tutorial sessions and lab exercises in Python programming, data visualization, and machine learning.
+  - Developed and graded assignments, quizzes, and provided constructive feedback to students.
+  - Collaborated with instructors to improve curriculum, integrating real-world examples and projects.
+  - Gained experience in pedagogy, contributing to an engaging educational environment.
 
-- **DXC Technologies** | Associate Professional Software Engineer | Chennai, India  
+
+- **DXC Technologies** | Data Engineer and Machine Learning Engineer | Chennai, India  
   Jun 2020 - Aug 2022
 
-  - Experienced in cloud technologies: HPE, AWS, Azure.
-  - Reduced database operational costs by 30%.
+  - Designed and implemented cloud-based machine learning solutions using AWS Sagemaker and Python, ensuring scalable and efficient model deployment.
+  - Developed robust ETL pipelines in Python to synchronize data across SQL Server, Oracle, and Postgres databases, streamlining data availability for analytics.
+  - Conducted hyperparameter tuning and feature selection, leading to an improvement in model performance metrics by over 20%.
+  - Applied natural language processing (NLP) techniques for sentiment analysis and text classification using a variety of machine learning algorithms, enhancing data interpretation efforts.
+  - Leveraged cloud computing (AWS), Python programming, database management systems (DBMS), natural language processing (NLP), and machine learning skills to drive innovative solutions.
 
 ## 🚀 Projects
 
