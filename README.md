@@ -49,6 +49,10 @@
 
 ## 🚀 Projects
 
+- [**Lane Detection using YOLOR and OpenCV**](https://github.com/SaiKolapudi/Lane-Detection-YOLOR) | July 2023
+  Real-time lane detection in video streams using YOLOR and OpenCV.  
+  ![Lane Detection Demo](Demo/1.gif)
+
 - [**Breast Cancer Prediction**](ProjectLink.com) | Aug 2022  
   Developed supervised machine learning models for predicting breast cancer.
 
@@ -57,10 +61,6 @@
 
 - [**Sentiment Exploration System**](ProjectLink.com) | Aug 2020  
   Built an online survey platform for sentimental analysis.
-
-- [**Lane Detection using YOLOR and OpenCV**](https://github.com/SaiKolapudi/Lane-Detection-YOLOR) | YourProjectDate  
-  Real-time lane detection in video streams using YOLOR and OpenCV.  
-  ![Lane Detection Demo](Demo/1.gif)
 
 
 
@@ -76,5 +76,6 @@
 
 ## 📜 Certifications
 
+- [**Machine Learning Specialization - Stanford Online**](https://www.coursera.org/account/accomplishments/specialization/XB9UKCADFEEH...)
 - [**Python for Data Science, AI & Development - IBM**](https://www.coursera.org/account/accomplishments/verify/MX3W6QVPK94C)
 - [**Databases and SQL for Data Science with Python - IBM**](https://www.coursera.org/account/accomplishments/verify/...)
