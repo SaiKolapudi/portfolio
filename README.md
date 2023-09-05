@@ -63,7 +63,7 @@
 - [**Lane Detection using YOLOR and OpenCV**](https://github.com/SaiKolapudi/Lane-Detection-YOLOR) | July 2023
 
 
-  Real-time lane detection in video streams using YOLOR and OpenCV.
+  Real-time lane detection system developed in Python using YOLOR and OpenCV. The project enables users to select a Region of Interest (ROI) manually for targeted lane identification. It employs Canny Edge Detection and Hough Line Transform to accurately identify and track lanes in video streams. Suitable for real-world applications like Advanced Driver-Assistance Systems (ADAS).
    
   ![Lane Detection Demo](Demo/1.gif)
 
