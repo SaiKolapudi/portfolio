@@ -1,3 +1,5 @@
 title: Sai Tulasi Kolapudi
 logo: img/Sai Tulasi Kolapudi_headshot_circle.png
-theme: pages-themes/architect@v0.2.0
+#description: text below image
+#show_downloads: true
+theme: jekyll-theme-minimal
