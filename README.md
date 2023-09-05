@@ -50,6 +50,7 @@
 ## 🚀 Projects
 
 - [**Lane Detection using YOLOR and OpenCV**](https://github.com/SaiKolapudi/Lane-Detection-YOLOR) | July 2023
+  
   Real-time lane detection in video streams using YOLOR and OpenCV.  
   ![Lane Detection Demo](Demo/1.gif)
 
