@@ -77,7 +77,9 @@
    
   Predicting breast cancer diagnosis using various machine learning techniques. Achieved impressive accuracy rates with different models including RobustScaler Naive Bayes, PCA Test, and more.
 
-
+- [**Secure_Ecommerce**](https://github.com/SaiKolapudi/Secure_Ecommerce) | Sep 2023
+   
+  The Grocery Store Web Application is a Flask-based web application that allows users to browse, search for, and purchase grocery products online. It also provides features such as user registration, authentication, wishlists, and order history tracking.  It is designed to provide a comprehensive demonstration of Flask capabilities in conjunction with MongoDB, PayPal integration, and email functionalities.
 
 ## 📚 Publications
 
